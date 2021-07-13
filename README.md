@@ -1,16 +1,5 @@
-# Happify AI Team Coding Interview
-
-Please **DO NOT** share or discuss the assignments.
-
-For any further questions, feel free to contact me. thomas@happify.com
-
-
-
-### Question 2
 
 **W2V-based Zero-shot Text Classification** 
-
-**Be creative.**
 
 ![zero-shot-architecture](./pics/zero-shot-architecture.png)
 
