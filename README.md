@@ -1,5 +1,6 @@
 
-**W2V-based Zero-shot Text Classification** 
+W2V-based Zero-shot Text Classification 
+=======================================
 
 ![zero-shot-architecture](./pics/zero-shot-architecture.png)
 
