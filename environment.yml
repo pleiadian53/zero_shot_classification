@@ -1,0 +1,34 @@
+name: zero_shot
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - grpcio
+  - h5py
+  - ipython
+  - numpy
+  - pip=20.2.4
+  - python=3.8
+  - scipy
+  - termcolor
+  - typeguard
+  - wheel
+  - absl-py
+  - astunparse
+  - python-flatbuffers
+  - gast
+  - google-pasta
+  - keras-preprocessing
+  - opt_einsum
+  - protobuf
+  - tensorboard
+  - tensorflow-estimator
+  - termcolor
+  - typing_extensions
+  - wrapt
+  - jupyterlab
+  - pandas
+  - seaborn
+  - scikit-learn
+  - matplotlib
+  - notebook
