@@ -3,12 +3,15 @@
 
 ![zero-shot-architecture](./pics/zero-shot-architecture.png)
 
-### Answer 2 
+### Introduction
 
-The solution was implemented according to the given modeling steps and with a reference to the paper: 
+Zero-shot learning aims to create models capable of predicting unseen classes. 
+
+This prototype is based on the following the paper: 
+
 ["Train Once, Test Anywhere: Zero-Shot Learning for Text Classification"](https://arxiv.org/abs/1712.05972). 
 
-Throughout the documentation, I often refer to each piece of headline news in `text` column as a **document** 
+Throughout the documentation, I will refer to each piece of headline news in `text` column as a **document** 
 and each keyword as a **concept**
 
 A Jyputer notebook (`W2V-based Zero-shot Text Classification.ipynb`) was created to better illusrate
