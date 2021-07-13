@@ -8,7 +8,7 @@ W2V-based Zero-shot Text Classification
 
 Zero-shot learning aims to create models capable of predicting unseen classes. 
 
-This prototype is based on the following the paper: 
+This prototypic module is based on the notion of word embeddings as well as following the paper: 
 
 ["Train Once, Test Anywhere: Zero-Shot Learning for Text Classification"](https://arxiv.org/abs/1712.05972). 
 
